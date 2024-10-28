@@ -18,7 +18,7 @@ This repository contains Terraform code to automate the creation of an Elastic L
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/terraform-aws-elb-autoscaling.git
+   git clone [https://github.com/your-username/link_to_project](https://github.com/celetrialprince166/Auto_Scaling_And_ELB_WITH_TF.git)
    cd terraform-aws-elb-autoscaling
 Initialize the Terraform working directory:
 
